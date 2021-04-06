@@ -33,6 +33,8 @@ public class Iterator04 {
 		}
 		System.out.println(" ");
 		System.out.println(sayiListesi);
+		
+		System.out.println("github ilk deneme");
 	}
 
 }
